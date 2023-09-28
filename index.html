@@ -7,57 +7,92 @@
     <style>
         body {
             font-family: Arial, sans-serif;
-            margin: 20px;
-            background-color: #f0f0f0;
+            margin: 0;
+            padding: 0;
+            background-color: #f5f5f5;
         }
+
         .header {
             text-align: center;
-            margin-bottom: 20px;
+            padding: 20px;
             background-color: #0074d9;
             color: #fff;
-            padding: 10px;
         }
+
+        .header h1 {
+            font-size: 36px;
+            margin: 10px 0;
+        }
+
         .header img {
-            width: 100px;
-            height: 100px;
+            width: 150px;
+            height: 150px;
             border-radius: 50%;
             margin-top: 10px;
+            animation: rotate 6s linear infinite;
         }
+
+        @keyframes rotate {
+            0% {
+                transform: rotate(0deg);
+            }
+            100% {
+                transform: rotate(360deg);
+            }
+        }
+
         .contact-info {
-            margin-bottom: 20px;
-            padding: 10px;
+            text-align: center;
+            margin-top: 20px;
+            padding: 20px;
             background-color: #fff;
-            border-radius: 5px;
+            border-radius: 10px;
+            animation: fade 1.5s ease-in-out infinite alternate;
         }
-        .work-history {
-            margin-bottom: 20px;
-            padding: 10px;
-            background-color: #fff;
-            border-radius: 5px;
+
+        @keyframes fade {
+            0% {
+                opacity: 0.6;
+            }
+            100% {
+                opacity: 1;
+            }
         }
-        .competencies {
-            margin-bottom: 20px;
-            padding: 10px;
+
+        .work-history, .competencies, .education, .certifications {
+            margin: 20px;
+            padding: 20px;
             background-color: #fff;
-            border-radius: 5px;
+            border-radius: 10px;
+            animation: slide 1s ease-in-out infinite alternate;
         }
-        .education {
-            margin-bottom: 20px;
-            padding: 10px;
-            background-color: #fff;
-            border-radius: 5px;
+
+        @keyframes slide {
+            0% {
+                transform: translateY(-10px);
+            }
+            100% {
+                transform: translateY(10px);
+            }
         }
-        .certifications {
-            margin-bottom: 20px;
-            padding: 10px;
-            background-color: #fff;
-            border-radius: 5px;
+
+        h2 {
+            color: #0074d9;
+        }
+
+        ul {
+            list-style-type: disc;
+            padding-left: 20px;
+        }
+
+        a {
+            color: #0074d9;
         }
     </style>
 </head>
 <body>
     <div class="header">
-        <img src="your-profile-photo-url.jpg" alt="Profile Photo">
+        <img src="https://media.licdn.com/dms/image/C4D03AQEaBkc8tHSg8g/profile-displayphoto-shrink_400_400/0/1655923311666?e=1701302400&v=beta&t=s3wX3UOKfuiRLCrzRo8LO83tVh1GE6wI7os4NZjraUo" alt="Profile Photo">
         <h1>Deepak Pant</h1>
         <p>Technical Lead Architect</p>
     </div>
