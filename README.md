@@ -51,3 +51,6 @@
 ## Certifications
 - Certified Kubernetes Application Developer (CKAD) - Udemy (May 2022)
 - Certification for AWS Beginner - Udemy (June 2019)
+
+
+[Download Resume (PDF)](https://github.com/DeepakPant93/my-resume/blob/main/Deepak_Pant_Resume.pdf)
