@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Deepak Pant - Resume</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f5f5f5;
+        }
+
+        .header {
+            text-align: center;
+            padding: 20px;
+            background-color: #0074d9;
+            color: #fff;
+        }
+
+        .header h1 {
+            font-size: 36px;
+            margin: 10px 0;
+        }
+
+        .header img {
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+            margin-top: 10px;
+            animation: rotate 6s linear infinite;
+        }
+
+        @keyframes rotate {
+            0% {
+                transform: rotate(0deg);
+            }
+            100% {
+                transform: rotate(360deg);
+            }
+        }
+
+        .contact-info {
+            text-align: center;
+            margin-top: 20px;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 10px;
+            animation: fade 1.5s ease-in-out infinite alternate;
+        }
+
+        @keyframes fade {
+            0% {
+                opacity: 0.6;
+            }
+            100% {
+                opacity: 1;
+            }
+        }
+
+        .work-history, .competencies, .education, .certifications {
+            margin: 20px;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 10px;
+            animation: slide 1s ease-in-out infinite alternate;
+        }
+
+        @keyframes slide {
+            0% {
+                transform: translateY(-10px);
+            }
+            100% {
+                transform: translateY(10px);
+            }
+        }
+
+        h2 {
+            color: #0074d9;
+        }
+
+        ul {
+            list-style-type: disc;
+            padding-left: 20px;
+        }
+
+        a {
+            color: #0074d9;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <img src="https://media.licdn.com/dms/image/C4D03AQEaBkc8tHSg8g/profile-displayphoto-shrink_400_400/0/1655923311666?e=1701302400&v=beta&t=s3wX3UOKfuiRLCrzRo8LO83tVh1GE6wI7os4NZjraUo" alt="Profile Photo">
+        <h1>Deepak Pant</h1>
+        <p>Technical Lead Architect</p>
+    </div>
+
+    <div class="contact-info">
+        <p><strong>Contact:</strong> Noida, India 2013001</p>
+        <p><strong>Phone:</strong> 7065873977</p>
+        <p><strong>E-mail:</strong> <a href="mailto:mail2deepakpant@gmail.com">mail2deepakpant@gmail.com</a></p>
+        <p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/deepak-pant-014787115/">LinkedIn Profile</a></p>
+    </div>
+
+    <div class="work-history">
+        <h2>Work History</h2>
+        <p><strong>Technical Lead Architect</strong></p>
+        <p><em>Coredge, Noida</em></p>
+        <ul>
+            <li><strong>Health ID:</strong> This is an initiative by GOI to digitize the health sector by creating a unique ID for every patient, just like UPI in the financial world.</li>
+            <li><strong>Cirrus Cloud Platform (CCP):</strong> This is a management tool to manage private and small-scale cloud offering providers.</li>
+        </ul>
+
+        <p><strong>Senior Software Engineer/Team Lead</strong></p>
+        <p><em>Dew Solutions, Gurgaon</em></p>
+        <ul>
+            <li><strong>iTrade Order (OMS):</strong> OMS stands for order management tool developed for a supply chain company to negotiate between buyers and suppliers.</li>
+            <li><strong>iTrade Order (IRS):</strong> IRS stands for iTrade reporting service to provide specialized reports for suppliers to determine buyers' behaviors.</li>
+        </ul>
+
+        <p><strong>Senior Software Engineer</strong></p>
+        <p><em>Fidelity International, Gurgaon</em></p>
+        <ul>
+            <li><strong>Switch:</strong> It's a service provided by Fidelity so an adviser can switch between stocks and mutual funds.</li>
+            <li><strong>Rebalance:</strong> This product provides the facility to create models that contain funds and publish them over the Fidelity network so an adviser can use those models.</li>
+        </ul>
+
+        <p><strong>Software Engineer</strong></p>
+        <p><em>CenturyLink Technologies, Noida</em></p>
+        <ul>
+            <li><strong>DSP (Data Service Provisioning):</strong> It's a provisioning service to get high-speed internet requests from customers and provision the requests to other systems.</li>
+        </ul>
+    </div>
+
+    <div class="competencies">
+        <h2>Competencies</h2>
+        <p><strong>Java:</strong> Advanced</p>
+        <p><strong>MySQL, Oracle:</strong> Advanced</p>
+        <p><strong>Spring Boot, Spring Data JPA, Hibernate:</strong> Advanced</p>
+        <!-- Add more competencies as needed -->
+    </div>
+
+    <div class="education">
+        <h2>Education</h2>
+        <p><strong>Master of Science: Data Science</strong></p>
+        <p><em>IIIT - Bangalore - Online</em></p>
+
+        <p><strong>B.Tech: Computer Science and Engineering</strong></p>
+        <p><em>Uttarakhand Technical University - Dehradun, UK</em></p>
+        <p><strong>Marks:</strong> 71.26%</p>
+
+        <p><strong>12th</strong></p>
+        <p><em>U.K. Board - Chamoli, UK</em></p>
+        <p><strong>Marks:</strong> 70.4%</p>
+
+        <p><strong>10th</strong></p>
+        <p><em>U.K. Board - Chamoli, UK</em></p>
+        <p><strong>Marks:</strong> 76.5%</p>
+    </div>
+
+    <div class="certifications">
+        <h2>Certifications</h2>
+        <p><strong>Certified Kubernetes Application Developer (CKAD)</strong> - Udemy (May 2022)</p>
+        <p><strong>Certification for AWS Beginner</strong> - Udemy (June 2019)</p>
+    </div>
+</body>
+</html>
