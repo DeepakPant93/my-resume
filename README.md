@@ -1,7 +1,5 @@
 # Deepak Pant - Resume
 
-![Profile Photo](https://media.licdn.com/dms/image/C4D03AQEaBkc8tHSg8g/profile-displayphoto-shrink_400_400/0/1655923311666?e=1701302400&v=beta&t=s3wX3UOKfuiRLCrzRo8LO83tVh1GE6wI7os4NZjraUo)
-
 ## Contact Information
 - **Contact:** Noida, India 2013001
 - **Phone:** 7065873977
