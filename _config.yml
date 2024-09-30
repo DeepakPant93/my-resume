@@ -4,7 +4,7 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 title: Lead Architect & AI Solutions Specialist | Cloud, Microservices & AI Expert
-description: Accomplished Lead Architect with over 11 years of experience in designing and delivering innovative cloud management platforms, AI-driven applications, and microservices-based solutions. Adept at leading complex cloud infrastructure projects across public and private clouds, with hands-on expertise in FastAPI, Python, Kubernetes, OpenStack, and more. Spearheaded the development of Cirrus Cloud Platform (CCP), a tailored cloud management portal for service providers, and led the Government of India’s Health ID initiative to digitalize healthcare. Skilled in integrating AI technologies into cloud solutions, with a proven track record of delivering custom, scalable architectures and managing end-to-end client interactions.
+description: Experienced Lead Architect with over 11 years of experience in designing and delivering innovative cloud management platforms, AI-driven applications, and microservices-based solutions. Adept at leading complex cloud infrastructure projects across public and private clouds, with hands-on expertise in FastAPI, Python, Kubernetes, OpenStack, and more. Spearheaded the development of Cirrus Cloud Platform (CCP), a tailored cloud management portal for service providers, and led the Government of India’s Health ID initiative to digitalize healthcare. Skilled in integrating AI technologies into cloud solutions, with a proven track record of delivering custom, scalable architectures and managing end-to-end client interactions.
 
 github:  
   owner_url: https://github.com/DeepakPant93  
