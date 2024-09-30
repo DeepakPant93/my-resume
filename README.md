@@ -100,4 +100,4 @@ Certified AWS Solutions Architect with over 11 years of experience in software e
 
 ---
 
-[Download Resume (PDF)](https://github.com/DeepakPant93/my-resume/blob/main/DeepakPantResume_Sept_2024.pdf)
+[Download Resume (PDF)](https://raw.githubusercontent.com/DeepakPant93/my-resume/main/Deepak_Pant_Resume.pdf)
