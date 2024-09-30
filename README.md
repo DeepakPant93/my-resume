@@ -2,7 +2,7 @@
 
 ## Contact Information
 - **Contact:** Noida, India 2013001
-- **Phone:** 7065873977
+- **Phone:** 92054 05877
 - **E-mail:** [mail2deepakpant@gmail.com](mailto:mail2deepakpant@gmail.com)
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/deepak-pant-014787115/)
 
