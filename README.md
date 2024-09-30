@@ -64,18 +64,18 @@ Certified AWS Solutions Architect with over 11 years of experience in software e
 
 ## Education
 - **Master of Science: Data Science**
-  - IIIT - Bangalore - Online (Ongoing)
+  - IIIT - Bangalore (India) - Online (Ongoing)
 
 - **B.Tech: Computer Science and Engineering**
-  - Uttarakhand Technical University - Dehradun, Uttarakhand
+  - Uttarakhand Technical University - Dehradun, Uttarakhand (India)
   - Marks: 71.26%
 
 - **12th**
-  - Uttarakhand Board - Uttarakhand
+  - Uttarakhand Board - Uttarakhand (India)
   - Marks: 70.4%
 
 - **10th**
-  - Uttarakhand Board - Uttarakhand
+  - Uttarakhand Board - Uttarakhand (India)
   - Marks: 76.5%
 
 
