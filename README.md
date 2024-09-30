@@ -16,7 +16,7 @@ Certified AWS Solutions Architect with over 11 years of experience in software e
 ### **WORK EXPERIENCE**
 
 ### Freelancer (AI & Cloud Solutions)
-*Jul 2024 – Present*
+*Aug 2024 – Present*
 
 - **YogaGPT**: Developed an AI-driven chatbot leveraging the ChatGPT API for personalized yoga and wellness recommendations. The solution integrates machine learning models for real-time user engagement.
 - **Email Marketing Solution**: Architected a FastAPI-based microservice for email marketing, using cloud infrastructure (AWS/GCP/Azure) and integrating AI algorithms to optimize email campaigns for enhanced targeting and performance.
@@ -56,7 +56,7 @@ Certified AWS Solutions Architect with over 11 years of experience in software e
 ---
 
 ### **CERTIFICATIONS**
-- **AWS Certified Solutions Architect – Associate** (2024)
+- [**AWS Certified Solutions Architect – Associate** (2024)](https://www.credly.com/badges/b60cfed9-7e19-4e74-8ff1-e5feb4d29f89/public_url)
 - **Certified Kubernetes Application Developer (CKAD)** - Udemy (May 2022)
 - Certification for AWS Beginner - Udemy (June 2019)
 
