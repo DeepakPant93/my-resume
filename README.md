@@ -1,4 +1,4 @@
-# **Deepak Pant**  
+# Deepak Pant  
 
 ### **CONTACT INFORMATION**
 - **Contact:** Noida, India 2013001
@@ -15,7 +15,7 @@ Certified AWS Solutions Architect with over 11 years of experience in software e
 
 ### **WORK EXPERIENCE**
 
-#### Freelancer (AI & Cloud Solutions)
+#### **Freelancer (AI & Cloud Solutions)**
 *Aug 2024 – Present*
 
 - **YogaGPT**: Developed an AI-driven chatbot leveraging the ChatGPT API for personalized yoga and wellness recommendations. The solution integrates machine learning models for real-time user engagement.
@@ -56,8 +56,8 @@ Certified AWS Solutions Architect with over 11 years of experience in software e
 ---
 
 ### **CERTIFICATIONS**
-- [**AWS Certified Solutions Architect – Associate** (2024)](https://www.credly.com/badges/b60cfed9-7e19-4e74-8ff1-e5feb4d29f89/public_url)
-- **Certified Kubernetes Application Developer (CKAD)** - Udemy (May 2022)
+- [AWS Certified Solutions Architect – Associate (2024)](https://www.credly.com/badges/b60cfed9-7e19-4e74-8ff1-e5feb4d29f89/public_url)
+- Certified Kubernetes Application Developer (CKAD) - Udemy (May 2022)
 - Certification for AWS Beginner - Udemy (June 2019)
 
 ---
