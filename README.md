@@ -1,6 +1,6 @@
 # **Deepak Pant**  
 
-## Contact Information
+### **CONTACT INFORMATION**
 - **Contact:** Noida, India 2013001
 - **Phone:** 92054 05877
 - **E-mail:** [mail2deepakpant@gmail.com](mailto:mail2deepakpant@gmail.com)
@@ -15,7 +15,7 @@ Certified AWS Solutions Architect with over 11 years of experience in software e
 
 ### **WORK EXPERIENCE**
 
-### Freelancer (AI & Cloud Solutions)
+#### Freelancer (AI & Cloud Solutions)
 *Aug 2024 – Present*
 
 - **YogaGPT**: Developed an AI-driven chatbot leveraging the ChatGPT API for personalized yoga and wellness recommendations. The solution integrates machine learning models for real-time user engagement.
@@ -62,7 +62,7 @@ Certified AWS Solutions Architect with over 11 years of experience in software e
 
 ---
 
-## Education
+### **EDUCATION**
 - **Master of Science: Data Science**
   - IIIT - Bangalore (India) - Online (Ongoing)
 
@@ -90,13 +90,6 @@ Certified AWS Solutions Architect with over 11 years of experience in software e
 - **Web Technologies**: HTML5, CSS, JavaScript, Bootstrap, Angular  
 - **DevOps Tools**: Github Action, Kubernetes, Helm, Ansible, Jenkins, Git, Docker  
 - **Other**: Microservices Architecture, RESTful Web Services, AI/ML Integration  
-
----
-
-### **PROJECTS**
-
-- **YogaGPT**: AI-driven chatbot leveraging the ChatGPT API for personalized yoga and wellness recommendations.
-- **Emailer Service**: Architected a FastAPI microservice to handle bulk email sending using cloud infrastructure, integrated with AI for campaign optimization.
 
 ---
 
